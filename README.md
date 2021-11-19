@@ -2,7 +2,7 @@
  - Interesse em Back-End
  - Estudando Java POO
  - Pronouns: Ele/Dele
- - Linguagens que sei: Python
+ - Linguagens que sei: Python, Java
 
 
 <div align="center">
