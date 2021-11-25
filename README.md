@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Alessandro Viana da Silva
  - Interesse em Back-End
- - Estudando Java POO
  - Pronouns: Ele/Dele
- - Linguagens que sei: Python, Java
+ - Linguagens do meu conhecimento: Python
+ - Linguagens que estou estudando: Java POO e C
 
 
 <div align="center">
@@ -13,7 +13,8 @@
   
 </div>
   <img align="center" alt="Alessandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alessandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Alessandro-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Alessandro-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <?div>
 
 ##
