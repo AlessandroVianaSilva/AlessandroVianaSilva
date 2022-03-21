@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Alessandro Viana da Silva
  - Interesse em Back-End
  - Pronouns: Ele/Dele
- - Linguagens do meu conhecimento: Python
- - Linguagens que estou estudando: Java POO e C
+ - Linguagens do meu conhecimento: Python Basico, Java basico
+ - Linguagens que estou estudando: Prog. web: HTML, CSS e Javascript
 
 
 <div align="center">
