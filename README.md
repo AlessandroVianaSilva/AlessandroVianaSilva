@@ -3,6 +3,7 @@
  - Pronouns: Ele/Dele
  - Linguagens do meu conhecimento: Python Basico, Java basico/poo
  - Linguagens que estou estudando: Prog. web: HTML, CSS e Javascript
+ - Tambem estudando React.js (Framework/Biblioteca JS - FrontEnd)
 
 
 <div align="center">
